@@ -13,7 +13,7 @@ Convert UI screenshots to HTML + Tailwind CSS using AI. Upload an image, get pro
 - Go to [aistudio.google.com](https://aistudio.google.com)
 - Sign in with your Google account
 - Click **Get API Key** → **Create API Key**
-- Copy the key (it's **free** — no credit card required)
+- Copy the key
 
 ### 2. Setup Backend
 
